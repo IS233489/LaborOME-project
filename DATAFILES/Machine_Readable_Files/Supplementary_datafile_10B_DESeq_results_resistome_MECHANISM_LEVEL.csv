@@ -1,0 +1,70 @@
+Collection phase contrast (reference-comparator),Accession,Type,Class,Mechanism,Mean abundance,Log2 Fold change,Wald's fdr adjusted p
+Workday start-Workday end,MEG_3075,Metals,Aluminum_resistance,Aluminum_ATPase_,0.571517694,18.48944155,1.98E-22
+Workday start-Workday end,MEG_7298,Biocides,Multi-biocide_resistance,Multi-biocide_RND_efflux_regulator,1.4922962,17.027018,3.01E-19
+Workday start-Workday end,MEG_6531,Biocides,Multi-biocide_resistance,Multi-biocide_MFS_efflux_pump,4.734724859,12.13132861,6.83E-10
+Workday start-Workday end,MEG_5776,Drugs,Lipopeptides,Lipid_A_phosphatase,5.99328193,11.60241637,3.53E-09
+Workday start-Workday end,MEG_2731,Drugs,Multi-drug_resistance,Multi-drug_SMR_efflux_regulator,7.916629673,14.15646607,1.83E-13
+Workday start-Workday end,MEG_4203,Biocides,Paraquat_resistance,Paraquat_resistance_protein,12.38448137,6.173903044,0.007917018
+Workday start-Workday end,MEG_3836,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MATE_efflux_regulator,81.1378981,-1.629403474,0.019490362
+Workday start-Workday end,MEG_1122,Drugs,Cationic_antimicrobial_peptides,Polymyxin_B_resistance_regulator,84.17492428,-3.62625034,0.01706383
+Workday start-Workday end,MEG_4214,Drugs,Aminocoumarins,Aminocoumarin_efflux_pump,87.13050032,6.698820126,0.003758562
+Workday start-Workday end,MEG_6085,Drugs,Rifampin,Monooxygenase,88.16594974,3.615675311,0.019490362
+Workday start-Workday end,MEG_4290,Drugs,betalactams,Mutant_porin_proteins,137.8562956,2.6750704,0.019490362
+Workday start-Workday end,MEG_3067,Drugs,Fusidic_acid,Ribosomal_zinc-binding_protein,391.0962101,-1.162368144,0.000960363
+Workday start-Workday end,MEG_5396,Drugs,Aminocoumarins,Aminocoumarin-resistant_DNA_topoisomerases,1020.260764,1.96217922,0.030261726
+Workday start-Workday end,MEG_3007,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,36146.81892,1.666632646,0.006081126
+Workday start-Workday end,MEG_3786,Drugs,betalactams,Penicillin_binding_protein,181638.9933,1.456782517,0.007082316
+Workday end-Post-shower,MEG_6531,Biocides,Multi-biocide_resistance,Multi-biocide_MFS_efflux_pump,5.088962452,7.356168445,0.002012947
+Workday end-Post-shower,MEG_3084,Biocides,Quaternary_Ammonium_Compounds_(QACs)_resistance,QAC-resistant_protein_UDP_glucose_4_epimerase,5.64745556,-10.71217935,1.08E-06
+Workday end-Post-shower,MEG_7532,Drugs,Glycopeptides,VanG-type_resistance_protein,20.21156893,-4.503664218,0.001952978
+Workday end-Post-shower,MEG_6085,Drugs,Rifampin,Monooxygenase,29.41791487,4.298097804,0.002296467
+Workday end-Post-shower,MEG_3943,Drugs,Multi-drug_resistance,MDR_regulator,3372.595038,1.612506025,0.011585552
+Workday end-Post-shower,MEG_3007,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,63780.21493,1.857517063,0.001428626
+Workday end-Post-shower,MEG_5856,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_regulator,67893.11704,1.378408752,0.003114443
+Workday end-Post-shower,MEG_4044,Drugs,MLS,Macrolide_phosphotransferases,140243.2742,0.983868544,0.01984638
+Workday end-Post-shower,MEG_1300,Drugs,betalactams,Penicillin_binding_protein_regulator,234128.7754,1.297162229,0.01224066
+Workday end-Post-shower,MEG_3786,Drugs,betalactams,Penicillin_binding_protein,459634.024,1.582324979,0.001428626
+Workday start-Post-shower,MEG_3075,Metals,Aluminum_resistance,Aluminum_ATPase_,0.581566901,17.84318949,4.45E-18
+Workday start-Post-shower,MEG_7462,Drugs,Glycopeptides,VanB-type_regulator,0.827520607,20.72660686,3.45E-24
+Workday start-Post-shower,MEG_7298,Biocides,Multi-biocide_resistance,Multi-biocide_RND_efflux_regulator,1.518535797,19.55983529,1.48E-21
+Workday start-Post-shower,MEG_2731,Drugs,Multi-drug_resistance,Multi-drug_SMR_efflux_regulator,9.803993611,10.43812156,2.36E-06
+Workday start-Post-shower,MEG_1122,Drugs,Cationic_antimicrobial_peptides,Polymyxin_B_resistance_regulator,59.15412772,-3.22239726,0.016521421
+Workday start-Post-shower,MEG_4120,Metals,Nickel_resistance,Nickel_MFS_efflux_pumps,72.14029143,-7.175385316,1.23E-08
+Workday start-Post-shower,MEG_3836,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MATE_efflux_regulator,108.5680625,-1.99785348,0.030851788
+Workday start-Post-shower,MEG_3067,Drugs,Fusidic_acid,Ribosomal_zinc-binding_protein,1086.179554,-1.303687977,0.016307176
+Workday start-Post-shower,MEG_7626,Drugs,MLS,Streptogramin_A_O-acetyltransferase,1130.732823,-0.536835352,0.025596015
+Workday start-Post-shower,MEG_5396,Drugs,Aminocoumarins,Aminocoumarin-resistant_DNA_topoisomerases,1350.787289,2.623045971,0.030851788
+Workday start-Post-shower,MEG_2579,Drugs,Trimethoprim,Dihydrofolate_reductase,5440.800326,-0.605422469,0.043083644
+Workday start-Post-shower,MEG_6652,Metals,Copper_resistance,Copper_resistance_protein,43562.71429,-0.616437673,0.046798415
+Workday start-Post-shower,MEG_3007,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,83917.27611,1.358680152,0.025532802
+Interface(Swine-Workday end),MEG_5396,Drugs,Aminocoumarins,Aminocoumarin-resistant_DNA_topoisomerases,326.4736498,2.979361023,0.045351502
+Interface(Swine-Workday end),MEG_3271,Drugs,Multi-drug_resistance,Multi-drug_RND_efflux_pumps,546.3010944,0.657398301,0.049143284
+Interface(Swine-Workday end),MEG_1173,Metals,Arsenic_resistance,Arsenic_resistance_regulator,1029.149382,0.752279391,0.049143284
+Interface(Swine-Workday end),MEG_2867,Biocides,Acid_resistance,Acid_resistance_regulator,1142.028459,0.703653802,0.049143284
+Interface(Swine-Workday end),MEG_3287,Biocides,Peroxide_resistance,Peroxide_resistance_stress_protein,1978.897932,0.710043596,0.049143284
+Interface(Swine-Workday end),MEG_1189,Drugs,Bacitracin,Undecaprenyl_pyrophosphate_phosphatase,2027.489408,0.671932969,0.049143284
+Interface(Swine-Workday end),MEG_2898,Multi-compound,Biocide_and_metal_resistance,Biocide_and_metal_ABC_efflux_pumps,2121.745853,0.667033754,0.049143284
+Interface(Swine-Workday end),MEG_6545,Biocides,Peroxide_resistance,peroxide_resistance_protein,2590.642449,0.602778464,0.049143284
+Interface(Swine-Workday end),MEG_1279,Drugs,betalactams,Class_C_betalactamases,2654.503742,0.930106252,0.049143284
+Interface(Swine-Workday end),MEG_2017,Metals,Copper_resistance,Copper_resistance_regulator,2714.4818,0.685063826,0.045351502
+Interface(Swine-Workday end),MEG_2739,Drugs,Cationic_antimicrobial_peptides,Lipid_A_modification,4334.679285,0.672615359,0.049143284
+Interface(Swine-Workday end),MEG_2453,Metals,Multi-metal_resistance,Multi-metal_RND_efflux_regulator,4486.023979,0.651175087,0.049143284
+Interface(Swine-Workday end),MEG_6141,Biocides,Multi-biocide_resistance,Multi-biocide_resistance_regulator,4716.209133,0.702544601,0.049143284
+Interface(Swine-Workday end),MEG_1192,Multi-compound,Drug_and_biocide_and_metal_resistance,Drug_and_biocide_and_metal_RND_efflux_regulator,4769.204141,0.652475175,0.049143284
+Interface(Swine-Workday end),MEG_7851,Metals,Zinc_resistance,Zinc_resistance_protein,4869.720021,0.661732875,0.049143284
+Interface(Swine-Workday end),MEG_7862,Metals,Zinc_resistance,Zinc_resistance_regulator,5822.388014,0.676609424,0.049418434
+Interface(Swine-Workday end),MEG_4162,Metals,Sodium_resistance,Sodium_resistance_protein,5971.460759,0.659422444,0.049143284
+Interface(Swine-Workday end),MEG_5208,Drugs,betalactams,Class_D_betalactamases,6124.867063,-0.858322375,0.049143284
+Interface(Swine-Workday end),MEG_4010,Metals,Multi-metal_resistance,Multi-metal_ABC_efflux_pumps,6328.836292,0.829388734,0.045351502
+Interface(Swine-Workday end),MEG_3622,Biocides,Acetate_resistance,Acetate_resistance_protein,7386.20876,0.709100238,0.049143284
+Interface(Swine-Workday end),MEG_3293,Drugs,Lipopeptides,Colistin_phosphoethanolamine_transferase,7829.648293,-0.909855484,0.045351502
+Interface(Swine-Workday end),MEG_4167,Metals,Nickel_resistance,Nickel_ABC_efflux_pumps,8434.775737,0.717653779,0.049143284
+Interface(Swine-Workday end),MEG_2121,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_regulator,10140.14952,0.711325022,0.049143284
+Interface(Swine-Workday end),MEG_3076,Biocides,Acid_resistance,Acid_resistance_protein,10193.65744,0.682886979,0.049143284
+Interface(Swine-Workday end),MEG_3007,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,10315.92725,1.263580189,0.049143284
+Interface(Swine-Workday end),MEG_2446,Metals,Multi-metal_resistance,Multi-metal_RND_efflux_pumps,12215.40476,0.732709598,0.049143284
+Interface(Swine-Workday end),MEG_5814,Metals,Arsenic_resistance,Arsenic_resistance_protein,13795.15109,0.728053393,0.014858587
+Interface(Swine-Workday end),MEG_3747,Multi-compound,Drug_and_biocide_and_metal_resistance,Drug_and_biocide_and_metal_RND_efflux_pumps,16834.90717,0.716867399,0.040108278
+Interface(Swine-Workday end),MEG_5787,Metals,Multi-metal_resistance,Multi-metal_resistance_protein,36510.25805,0.733064651,0.014858587
+Interface(Swine-Workday end),MEG_3752,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,38685.61596,0.763532088,0.049143284
+Interface(Swine-Workday end),MEG_6652,Metals,Copper_resistance,Copper_resistance_protein,355308.8323,1.268422942,0.040108278

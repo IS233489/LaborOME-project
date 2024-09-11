@@ -1,0 +1,243 @@
+Collection phase contrast (reference-comparator),Accession,Type,Class,Mechanism,ARG,Mean abundance,Log2 Fold change,Wald's fdr adjusted p
+Workday start-Workday end,MEG_3924,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_regulator,MEXR,1.455344318,24.71201462,1.10E-36
+Workday start-Workday end,MEG_6174,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,SDEX,9.743616794,15.99966225,1.01E-15
+Workday start-Workday end,MEG_7273,Biocides,Phenolic_compound_resistance,Phenolic_RND_efflux_pump,TRIB,11.12135336,25.71155537,4.77E-40
+Workday start-Workday end,MEG_3252,Biocides,Multi-biocide_resistance,Multi-biocide_RND_efflux_pump,HASF,11.88783391,24.32533042,3.74E-36
+Workday start-Workday end,MEG_3918,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_regulator,MEXL,13.08965629,13.1111663,1.55E-10
+Workday start-Workday end,MEG_1109,Drugs,betalactams,Class_A_betalactamases,ARL,13.47017844,-30,9.63E-56
+Workday start-Workday end,MEG_3899,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,MEXA,13.76687613,26.59568299,5.20E-43
+Workday start-Workday end,MEG_7271,Biocides,Phenolic_compound_resistance,Phenolic_RND_efflux_pump,TRIA,14.45373039,24.04164044,6.37E-35
+Workday start-Workday end,MEG_2701,Biocides,Acid_resistance,Acid_resistance_protein,EEFA,20.6671778,11.04529968,1.72E-07
+Workday start-Workday end,MEG_3532,Drugs,betalactams,Class_B_betalactamases,L1,24.7666139,16.01657631,1.19E-15
+Workday start-Workday end,MEG_4294,Drugs,Multi-drug_resistance,Multi-drug_RND_efflux_pumps,OPMH,27.23667991,11.15951355,1.28E-07
+Workday start-Workday end,MEG_3434,Drugs,Rifampin,Monooxygenase,IRI,29.78343446,22.88572565,4.32E-32
+Workday start-Workday end,MEG_6052,Metals,Chromium_resistance,Chromium_resistance_protein,RECG,32.01693618,4.629446885,9.64E-03
+Workday start-Workday end,MEG_2735,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_regulator,EMRRSM,33.7953039,7.645719452,4.60E-07
+Workday start-Workday end,MEG_3935,Biocides,Multi-biocide_resistance,Multi-biocide_RND_efflux_pump,MEXV,37.24806408,30,1.77E-54
+Workday start-Workday end,MEG_6154,Metals,Multi-metal_resistance,Multi-metal_resistance_protein,RUVBM,43.46935779,7.982400815,6.69E-04
+Workday start-Workday end,MEG_1722,Metals,Copper_resistance,Copper_resistance_protein,CINA,45.57836024,12.72281535,3.20E-11
+Workday start-Workday end,MEG_7286,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,TTGA,68.39959898,12.41856734,4.27E-16
+Workday start-Workday end,MEG_3658,Drugs,Multi-drug_resistance,Multi-drug_ABC_efflux_pumps,MACB,200.2610945,4.187820581,1.56E-03
+Workday start-Workday end,MEG_3907,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,MEXD,226.0237966,3.789375135,8.86E-03
+Workday start-Workday end,MEG_2439,Metals,Multi-metal_resistance,Multi-metal_resistance_protein,CUEA,228.2738619,4.725687099,3.65E-03
+Workday start-Workday end,MEG_4101,Drugs,Multi-drug_resistance,Multi-drug_RND_efflux_pumps,MUXB,232.4199756,4.405121104,7.92E-03
+Workday start-Workday end,MEG_6173,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,SDEB,251.0274129,3.564759228,3.52E-03
+Workday start-Workday end,MEG_7012,Drugs,Tetracyclines,Tetracycline_resistance_MFS_efflux_pumps,TET59,764.3363028,2.601470513,3.52E-03
+Workday start-Workday end,MEG_4089,Drugs,Mupirocin,Mupirocin-resistant_isoleucyl-tRNA_synthetase,MUPA,1212.398307,-2.255755829,0.006700951
+Workday start-Workday end,MEG_2992,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,FOSA,16386.44598,1.945035178,1.01E-03
+Workday start-Workday end,MEG_3007,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,FOSB,25403.43818,2.123808355,9.00E-03
+Workday start-Workday end,MEG_4208,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_pumps,NORA,140308.5847,1.936689642,5.33E-03
+Workday start-Workday end,MEG_3786,Drugs,betalactams,Penicillin_binding_protein,MECA,347478.7221,1.760430166,0.008840732
+Workday end-Post shower,MEG_1109,Drugs,betalactams,Class_A_betalactamases,ARL,14.65543259,-6.513437038,0.005062141
+Workday end-Post shower,MEG_1117,Drugs,Multi-drug_resistance,MDR_regulator,ARLR,23.39170079,-5.075168217,0.000920027
+Workday end-Post shower,MEG_4052,Drugs,MLS,Macrolide_phosphotransferases,MPHO,24.03778622,-3.922738674,0.008993983
+Workday end-Post shower,MEG_2088,Metals,Multi-metal_resistance,Multi-metal_resistance_protein,CORB,28.05611315,-4.138281365,0.000183919
+Workday end-Post shower,MEG_7072,Drugs,Tetracyclines,Tetracycline_resistance_MFS_efflux_pumps,TETE,34.5024262,-2.878879698,0.0002601
+Workday end-Post shower,MEG_1229,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MATE_efflux_pumps,BEXA,43.70125894,3.210412529,0.000910351
+Workday end-Post shower,MEG_2744,Drugs,MLS,Macrolide_esterases,EREA,74.15123754,-4.124333881,0.004224692
+Workday end-Post shower,MEG_3597,Drugs,Multi-drug_resistance,Multi-drug_ABC_efflux_pumps,LMRD,79.1941617,-1.753507393,0.001702946
+Workday end-Post shower,MEG_3936,Biocides,Multi-biocide_resistance,Multi-biocide_RND_efflux_pump,MEXW,81.69030593,-3.382767941,0.000410258
+Workday end-Post shower,MEG_7288,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,TTGB,103.5207402,-1.646552339,0.009952471
+Workday end-Post shower,MEG_1764,Drugs,Phenicol,Phenicol_resistance_MFS_efflux_pumps,CMLA,107.4479333,-1.622868566,0.008993983
+Workday end-Post shower,MEG_6640,Drugs,Sulfonamides,Sulfonamide-resistant_dihydropteroate_synthases,SULIV,109.2715222,-3.811502476,0.000183919
+Workday end-Post shower,MEG_3067,Drugs,Fusidic_acid,Ribosomal_zinc-binding_protein,FUSB,523.3006482,-2.298653235,0.005062141
+Workday end-Post shower,MEG_2905,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_pumps,FEXA,915.8125808,-1.865751531,1.05E-05
+Workday end-Post shower,MEG_3129,Drugs,betalactams,Class_A_betalactamases,GES,6827.379393,-3.324168757,0.007628644
+Workday end-Post shower,MEG_2992,Drugs,Fosfomycin,Fosfomycin_thiol_transferases,FOSA,24737.80333,2.116217985,0.001686216
+Workday end-Post shower,MEG_4208,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_pumps,NORA,242822.518,2.002518429,0.008993983
+Workday end-Post shower,MEG_3786,Drugs,betalactams,Penicillin_binding_protein,MECA,526836.6995,1.955533734,0.005062141
+Workday start-Post shower,MEG_4377,Multi-compound,Biocide_and_metal_resistance,Biocide_and_metal_resistance_protein,OSCA,3.222737709,10.07817245,6.03371E-05
+Workday start-Post shower,MEG_1468,Biocides,Multi-biocide_resistance,Multi-biocide_resistance_regulator,BLTR,5.188976906,-7.338625997,0.005320301
+Workday start-Post shower,MEG_4049,Drugs,MLS,Macrolide_phosphotransferases,MPHK,11.60486584,-5.584313713,0.0021981
+Workday start-Post shower,MEG_6044,Drugs,Multi-drug_resistance,Multi-drug_RND_efflux_regulator,RAMA,20.65661429,7.10834837,9.01E-03
+Workday start-Post shower,MEG_1469,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_regulator,BMR,20.85617305,-3.190942312,0.001374533
+Workday start-Post shower,MEG_3835,Drugs,Multi-drug_resistance,Multi-drug_MATE_efflux_pump,MEPB,24.8407774,-5.390338929,0.003608777
+Workday start-Post shower,MEG_4120,Metals,Nickel_resistance,Nickel_MFS_efflux_pumps,NCRAN,45.48598669,-6.022961193,0.00037163
+Workday start-Post shower,MEG_1117,Drugs,Multi-drug_resistance,MDR_regulator,ARLR,98.83115773,-4.3304326,6.03E-05
+Workday start-Post shower,MEG_1119,Drugs,Multi-drug_resistance,MDR_regulator,ARLS,121.9505316,-4.051299707,0.001174371
+Workday start-Post shower,MEG_4213,Drugs,Multi-drug_resistance,Multi-drug_MATE_efflux_pump,NORMD,168.6354548,2.938034237,5.03E-03
+Workday start-Post shower,MEG_3832,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MATE_efflux_pumps,MEPA,212.8122978,-2.535943391,0.0021981
+Workday start-Post shower,MEG_3067,Drugs,Fusidic_acid,Ribosomal_zinc-binding_protein,FUSB,725.3155002,-2.707499237,0.00037163
+Workday start-Post shower,MEG_2905,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_pumps,FEXA,2062.836627,-1.98819292,0.00037163
+Interface(Swine-Workday end),MEG_2735,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_regulator,EMRRSM,10.32069401,7.500636573,0.000145236
+Interface(Swine-Workday end),MEG_6530,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_regulator,SMET,12.63047628,9.141684784,9.12E-05
+Interface(Swine-Workday end),MEG_4078,Drugs,Multi-drug_resistance,Multi-drug_RND_efflux_regulator,MTRAD,28.85229797,8.678096302,6.47E-07
+Interface(Swine-Workday end),MEG_2723,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_pumps,EMRASM,79.64725942,3.643458082,0.009442986
+Interface(Swine-Workday end),MEG_421,Drugs,betalactams,Class_C_betalactamases,ACT,85.3561013,-4.30343141,0.001636737
+Interface(Swine-Workday end),MEG_6173,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_RND_efflux_pumps,SDEB,88.95324564,4.095488146,0.00601661
+Interface(Swine-Workday end),MEG_7836,Multi-compound,Biocide_and_metal_resistance,Biocide_and_metal_resistance_protein,YJAA,286.6297656,-0.494797049,0.004914198
+Interface(Swine-Workday end),MEG_2905,Multi-compound,Drug_and_biocide_resistance,Drug_and_biocide_MFS_efflux_pumps,FEXA,949.2742525,2.728678592,0.004914198
+Interface(Swine-Workday end),MEG_2896,Metals,Multi-metal_resistance,Multi-metal_ABC_efflux_pumps,FECE,1352.88737,1.248751535,0.004914198
+Interface(Swine-Workday end),MEG_4033,Drugs,MLS,Macrolide_phosphotransferases,MPHB,2095.155258,1.262668456,0.004914198
+Interface(Swine-Workday end),MEG_3620,Drugs,MLS,Lincosamide_nucleotidyltransferases,LNUG,40081.34987,2.028750269,0.004914198
+Interface(Swine-Workday end),MEG_1545,Drugs,betalactams,Class_A_betalactamases,CARB,50551.14843,2.066922025,0.004914198
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

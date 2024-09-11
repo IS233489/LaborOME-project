@@ -1,0 +1,837 @@
+Collection phase contrast (reference-comparator),Accession,Type,,Mean abundance,Log2 Fold change,Wald's fdr adjusted p<0.01
+Workday start-Workday end,gene:plasmid:84298,Plasmid,Plasmid biosynthesis_regulatory_enzymes,4.335141502,30,9.29E-54
+Workday start-Workday end,gene:plasmid:17107,Plasmid,Hypothetical plasmid protein,4.724017414,-30,1.81E-54
+Workday start-Workday end,gene:plasmid:136921,Plasmid,Plasmid stress_SOS_tox_antitox_partitioning,5.22606289,-29.88846761,2.15E-54
+Workday start-Workday end,IncFII(pECLA)_1_pECLA_CP001919,Plasmid replicon,Plasmid replicon,5.949577964,10.71390798,1.19E-06
+Workday start-Workday end,gene:plasmid:14931,Plasmid ARG,Plasmid ARG,6.302663567,30,4.22E-54
+Workday start-Workday end,gene:plasmid:154418,Plasmid,Unclassified plasmid gene,6.471153852,14.38729698,3.21E-12
+Workday start-Workday end,gene:plasmid:154388,IS,NA,6.938359412,24.24357464,1.49E-35
+Workday start-Workday end,gene:plasmid:85816,Plasmid,Unclassified plasmid gene,8.129948363,7.611826823,0.002428416
+Workday start-Workday end,gene:plasmid:24220,TE,NA,9.385957273,9.815794456,1.16E-05
+Workday start-Workday end,gene:plasmid:127985,Plasmid,Plasmid transposition_recombination_integration,9.658804499,27.73318657,1.75E-46
+Workday start-Workday end,IncFII(Yp)_1_Yersenia_CP000670,Plasmid replicon,Plasmid replicon,9.866005859,12.71956827,1.23E-10
+Workday start-Workday end,gene:vir:105294,Virus,NA,11.97771422,-16.34276793,3.46E-16
+Workday start-Workday end,gene:plasmid:93518,IS,NA,12.47965814,9.015504327,4.45E-05
+Workday start-Workday end,gene:plasmid:17316,Plasmid,Plasmid relaxase and mobilization machinery,13.3925734,-13.90239086,1.11E-11
+Workday start-Workday end,gene:plasmid:87096,Plasmid,Plasmid non_conjugative efflux_transport,13.56786755,-14.04129381,6.62E-12
+Workday start-Workday end,gene:proph:169969,Prophage,NA,14.58512638,-5.763591436,0.009386285
+Workday start-Workday end,IncFIA(HI1)_1_HI1_AF250878,Plasmid replicon,Plasmid replicon,15.61129483,6.966077672,1.09E-05
+Workday start-Workday end,gene:plasmid:86244,Plasmid,Hypothetical plasmid protein,15.95580939,30,4.22E-54
+Workday start-Workday end,gene:plasmid:154720,Plasmid,Plasmid biosynthesis_regulatory_enzymes,16.47672875,29.0642825,5.92E-51
+Workday start-Workday end,gene:plasmid:88327,IS,NA,16.55554368,10.83416975,2.14E-07
+Workday start-Workday end,gene:plasmid:154420,Plasmid,Unclassified plasmid gene,17.43634776,20.86136558,3.28E-26
+Workday start-Workday end,gene:plasmid:150020,Plasmid,Plasmid biosynthesis_regulatory_enzymes,17.79647181,-8.32547658,2.86E-06
+Workday start-Workday end,gene:plasmid:90291,IS,NA,18.62143211,9.652845558,1.75E-05
+Workday start-Workday end,gene:plasmid:85999,Plasmid,Plasmid non_conjugative efflux_transport,19.15010131,13.38275046,1.23E-10
+Workday start-Workday end,gene:plasmid:84383,TE,NA,19.33368566,7.654060436,0.000531249
+Workday start-Workday end,gene:plasmid:84289,Plasmid,Hypothetical plasmid protein,20.53895087,5.778604898,0.002452086
+Workday start-Workday end,gene:plasmid:153101,Plasmid,Hypothetical plasmid protein,21.43311398,12.4854332,2.13E-16
+Workday start-Workday end,gene:plasmid:18170,Plasmid,Unclassified plasmid gene,23.23684734,7.266817161,0.001320599
+Workday start-Workday end,gene:plasmid:18177,Plasmid,Plasmid biosynthesis_regulatory_enzymes,26.40688247,14.25714353,4.67E-12
+Workday start-Workday end,gene:plasmid:138608,Plasmid ARG,Plasmid ARG,27.89815156,4.501153271,0.008221533
+Workday start-Workday end,gene:plasmid:18173,IS,NA,29.10248231,11.98830328,3.60E-16
+Workday start-Workday end,RepA_1_pKPC-CAV1321_CP011611,Plasmid replicon,Plasmid replicon,31.80925603,24.50389479,9.95E-45
+Workday start-Workday end,gene:plasmid:18190,Plasmid,Unclassified plasmid gene,33.04251397,6.441030215,0.002987142
+Workday start-Workday end,gene:plasmid:17408,Plasmid,Plasmid replication initiation and maintenance ,33.46943077,-4.59021388,0.0028964
+Workday start-Workday end,gene:plasmid:18168,IS,NA,34.59747315,9.727197647,8.08E-06
+Workday start-Workday end,IncHI1A(CIT)_1_pNDM-CIT_JX182975,Plasmid replicon,Plasmid replicon,40.00226993,18.71076799,1.09E-30
+Workday start-Workday end,gene:plasmid:17422,Plasmid,Hypothetical plasmid protein,40.82845874,17.48329729,5.60E-26
+Workday start-Workday end,gene:plasmid:14693,Plasmid,Hypothetical plasmid protein,45.92361346,-2.306669069,0.006327476
+Workday start-Workday end,gene:plasmid:18175,Plasmid,Plasmid transcription_translation_regulation ,48.39193553,9.755591503,2.30E-12
+Workday start-Workday end,gene:plasmid:85212,Plasmid ARG,Plasmid ARG,53.54736509,-2.345541261,0.005992545
+Workday start-Workday end,gene:plasmid:20396,Plasmid,Hypothetical plasmid protein,54.59192611,8.268525761,0.000628225
+Workday start-Workday end,gene:plasmid:153097,TE,NA,56.62900286,27.61313609,1.06E-45
+Workday start-Workday end,gene:plasmid:92404,IS,NA,59.62600089,13.48831487,3.70E-11
+Workday start-Workday end,gene:plasmid:14697,IS,NA,71.95619091,-2.658262521,0.005388669
+Workday start-Workday end,gene:plasmid:84291,IS,NA,76.31009808,3.462610158,0.005701149
+Workday start-Workday end,gene:plasmid:91005,IS,NA,111.6684182,2.748932397,0.004012315
+Workday start-Workday end,gene:plasmid:87371,IS,NA,119.9618023,2.773689805,0.002749349
+Workday start-Workday end,gene:plasmid:124956,IS,NA,177.9211375,3.1341821,0.001207736
+Workday start-Workday end,gene:plasmid:124949,IS,NA,187.3957221,2.947805877,0.008479237
+Workday start-Workday end,gene:plasmid:90626,TE,NA,188.7832416,3.221072592,0.007602199
+Workday start-Workday end,gene:vir:105314,Virus,NA,213.1140121,3.621110416,0.007816031
+Workday start-Workday end,gene:plasmid:119833,Plasmid,Unclassified plasmid gene,233.3620968,3.472884966,0.003691639
+Workday start-Workday end,gene:vir:105307,Virus,NA,238.0728591,2.991703079,0.006942847
+Workday start-Workday end,gene:vir:105326,Virus,NA,250.2359026,3.110060201,0.003397903
+Workday start-Workday end,gene:vir:105335,Virus,NA,292.9209191,2.389293216,0.00806743
+Workday start-Workday end,gene:plasmid:28719,Plasmid,Hypothetical plasmid protein,314.0341063,2.234983765,0.007804444
+Workday start-Workday end,gene:vir:105343,Virus,NA,327.9361563,2.939885856,0.008752358
+Workday start-Workday end,gene:plasmid:152269,Plasmid ARG,Plasmid ARG,331.9881987,3.489663439,0.000268566
+Workday start-Workday end,gene:vir:107133,Virus,NA,364.6814953,3.477942695,0.00742579
+Workday start-Workday end,gene:plasmid:124926,Plasmid ARG,Plasmid ARG,366.8141927,3.375763116,0.000305125
+Workday start-Workday end,gene:proph:163539,Prophage,NA,385.4553025,2.758666733,0.007819406
+Workday start-Workday end,gene:plasmid:119593,TE,NA,387.097267,2.925691287,0.002311865
+Workday start-Workday end,gene:proph:160869,Prophage,NA,410.2532215,2.504904164,0.005133724
+Workday start-Workday end,gene:vir:105318,Virus,NA,453.9221027,2.450927928,0.004609333
+Workday start-Workday end,gene:plasmid:139559,Plasmid,Plasmid transcription_translation_regulation ,474.7093578,3.331822154,0.005701149
+Workday start-Workday end,gene:plasmid:85109,Plasmid,Plasmid biosynthesis_regulatory_enzymes,573.8520196,3.050325936,0.005957462
+Workday start-Workday end,gene:vir:107136,Virus,NA,715.294507,2.88010887,0.001016172
+Workday start-Workday end,gene:proph:163529,Prophage,NA,805.9272027,2.826123352,0.005957462
+Workday start-Workday end,gene:vir:105345,Virus,NA,821.3216284,3.482520278,0.00189239
+Workday start-Workday end,gene:plasmid:139562,Plasmid,Plasmid transcription_translation_regulation ,849.0633758,3.733081108,0.002000598
+Workday start-Workday end,gene:vir:105309,Virus,NA,867.5218903,3.469199414,0.003795021
+Workday start-Workday end,gene:vir:105324,Virus,NA,1121.96694,3.630594041,0.001347998
+Workday start-Workday end,ICEberg|387|CTnPg1-b|GenBank|AP009380|1429021..1439368,ICE,NA,1838.090303,3.713777233,0.0009044
+Workday start-Workday end,ICEberg|83|ICESpn23771|GenBank|FR671415|1..25880,ICE,NA,1929.193654,-3.033277573,0.00083488
+Workday start-Workday end,ICEberg|333|ICE(Tn4371)6071|GenBank|CP001339|1988584..2031125,ICE,NA,6767.299755,4.355337342,0.000305125
+Workday start-Workday end,ICEberg|233|ICESsu(BM407)2|GenBank|FM252032|1005794..1086113,ICE,NA,12938.4559,4.399364592,0.000305125
+Workday start-Workday end,ICEberg|52|ICEPaeLESB58-1|GenBank|FM209186|2796710..2907811,ICE,NA,16883.33449,5.511701777,4.02E-06
+Workday end-Post-shower,gene:plasmid:149990,Plasmid,Hypothetical plasmid protein,3.805240997,-11.95050509,1.76E-07
+Workday end-Post-shower,gene:vir:105321,Virus,NA,3.922004154,-12.83661918,2.30E-08
+Workday end-Post-shower,gene:plasmid:14322,Plasmid,Hypothetical plasmid protein,4.288919367,17.05129858,5.33E-15
+Workday end-Post-shower,gene:proph:181809,IS,NA,4.304068063,30,3.02E-46
+Workday end-Post-shower,gene:plasmid:19758,Plasmid ARG,Plasmid ARG,6.00921342,-9.359580884,0.000136603
+Workday end-Post-shower,gene:plasmid:131710,IS,NA,6.296195318,8.742819728,0.000592066
+Workday end-Post-shower,gene:plasmid:136921,Plasmid,Plasmid stress_SOS_tox_antitox_partitioning,6.694482346,-25.76222649,1.96E-35
+Workday end-Post-shower,gene:plasmid:149082,Prophage,NA,6.92950103,7.870199133,0.002270057
+Workday end-Post-shower,gene:plasmid:147543,Plasmid ARG,Plasmid ARG,7.232048326,14.40297596,1.48E-10
+Workday end-Post-shower,gene:plasmid:93389,Plasmid,Plasmid replication initiation and maintenance ,7.989319434,-10.34325096,2.05E-05
+Workday end-Post-shower,gene:vir:100201,Virus,NA,8.906227614,-6.836631872,0.008521593
+Workday end-Post-shower,gene:plasmid:14967,Plasmid,Plasmid stress_SOS_tox_antitox_partitioning,9.613355685,18.81604831,3.93E-18
+Workday end-Post-shower,gene:plasmid:19617,IS,NA,11.45890994,-10.02401315,3.17E-05
+Workday end-Post-shower,RepA_1_pKPC-CAV1321_CP011611,Plasmid replicon,Plasmid replicon,12.73469324,7.95490568,0.002315209
+Workday end-Post-shower,gene:plasmid:85576,Plasmid,Hypothetical plasmid protein,13.28739246,8.382614776,0.001072803
+Workday end-Post-shower,gene:plasmid:90297,IS,NA,13.30172598,-6.900914687,0.007492667
+Workday end-Post-shower,gene:plasmid:20572,TE,NA,14.41924954,13.85613855,7.86E-10
+Workday end-Post-shower,gene:plasmid:154763,Plasmid,Plasmid biosynthesis_regulatory_enzymes,14.55818476,-29.80836446,4.34E-46
+Workday end-Post-shower,gene:plasmid:154744,Plasmid,Plasmid transcription_translation_regulation ,14.6419208,-8.286380109,0.00091346
+Workday end-Post-shower,gene:plasmid:92029,IS,NA,15.02299933,-8.968724985,0.000178806
+Workday end-Post-shower,gene:plasmid:151818,Plasmid ARG,Plasmid ARG,15.52497121,26.67911177,4.52E-50
+Workday end-Post-shower,gene:plasmid:21259,Plasmid,Plasmid biosynthesis_regulatory_enzymes,15.9095843,22.62007108,2.42E-26
+Workday end-Post-shower,gene:plasmid:139639,TE,NA,16.24927344,7.339018854,0.005406246
+Workday end-Post-shower,gene:plasmid:117791,Plasmid,Hypothetical plasmid protein,16.55940259,-6.275847344,0.000941074
+Workday end-Post-shower,gene:plasmid:10572,Plasmid,Plasmid replication initiation and maintenance ,16.58761314,29.98996286,3.63E-46
+Workday end-Post-shower,gene:plasmid:30113,TE,NA,16.60143649,-5.861941324,0.000429643
+Workday end-Post-shower,gene:plasmid:10579,Plasmid,Plasmid replication initiation and maintenance ,18.07385119,-16.09627144,9.70E-16
+Workday end-Post-shower,gene:plasmid:158567,TE,NA,19.81932714,-8.680171299,0.000408025
+Workday end-Post-shower,gene:plasmid:18190,Plasmid,Unclassified plasmid gene,19.83572566,13.4144847,4.01E-09
+Workday end-Post-shower,gene:plasmid:145984,Plasmid,Plasmid replication initiation and maintenance ,19.92756287,-7.54313305,0.000147094
+Workday end-Post-shower,gene:plasmid:87730,Plasmid replicon,Plasmid replicon,21.25417242,-2.853423382,0.00409577
+Workday end-Post-shower,gene:plasmid:91806,IS,NA,22.44401928,10.65620062,3.28E-08
+Workday end-Post-shower,gene:plasmid:28714,IS,NA,22.5320281,15.82497862,5.72E-13
+Workday end-Post-shower,gene:vir:94840,Virus,NA,23.1476375,7.129464886,0.001145092
+Workday end-Post-shower,gene:plasmid:109676,TE,NA,23.91683778,-19.16722216,3.84E-26
+Workday end-Post-shower,gene:plasmid:112313,TE,NA,24.07933125,10.88915958,1.00E-06
+Workday end-Post-shower,gene:plasmid:85795,Plasmid,Hypothetical plasmid protein,24.37280899,-17.7853819,1.50E-22
+Workday end-Post-shower,gene:plasmid:28616,Plasmid,Plasmid biosynthesis_regulatory_enzymes,27.30524299,28.21833668,1.76E-59
+Workday end-Post-shower,gene:plasmid:154878,Plasmid,Plasmid biosynthesis_regulatory_enzymes,29.452833,-26.20178842,8.98E-54
+Workday end-Post-shower,gene:plasmid:28648,Plasmid ARG,Plasmid ARG,34.29383545,4.798200509,0.007937919
+Workday end-Post-shower,gene:vir:105347,Virus,NA,34.68584254,7.632047453,1.09E-05
+Workday end-Post-shower,gene:plasmid:84288,Plasmid,Plasmid ARG,34.85365269,-4.285783556,0.003826036
+Workday end-Post-shower,gene:plasmid:16972,TE,NA,35.23225,-2.962074433,0.001965468
+Workday end-Post-shower,gene:plasmid:17188,IS,NA,35.81849471,-3.162298863,0.005129731
+Workday end-Post-shower,gene:plasmid:156916,IS,NA,38.01966345,-25.55118463,1.18E-57
+Workday end-Post-shower,gene:plasmid:151482,Plasmid,Hypothetical plasmid protein,40.03311502,30,2.60E-63
+Workday end-Post-shower,gene:plasmid:154813,Plasmid,Plasmid biosynthesis_regulatory_enzymes,40.05611241,-18.28714713,4.07E-30
+Workday end-Post-shower,gene:plasmid:141427,TE,NA,41.66891901,4.993825519,0.00527746
+Workday end-Post-shower,gene:plasmid:138232,Plasmid,Plasmid biosynthesis_regulatory_enzymes,44.49132024,-27.78234106,2.08E-57
+Workday end-Post-shower,gene:plasmid:142738,Plasmid,Unclassified plasmid gene,44.55864042,-3.12398553,0.001827908
+Workday end-Post-shower,gene:plasmid:154831,Plasmid,Plasmid biosynthesis_regulatory_enzymes,46.73619297,-27.52858348,4.15E-72
+Workday end-Post-shower,gene:plasmid:140955,Plasmid,Plasmid replication initiation and maintenance ,47.22946086,-5.491661323,0.001406389
+Workday end-Post-shower,gene:plasmid:139268,Plasmid ARG,Plasmid ARG,48.38785636,-3.200812303,0.00225047
+Workday end-Post-shower,gene:proph:163604,Prophage,NA,50.67192266,12.12272876,1.54E-11
+Workday end-Post-shower,gene:proph:163571,Prophage,NA,50.79176034,21.5583526,8.41E-49
+Workday end-Post-shower,gene:vir:108492,Virus,NA,54.40842685,8.754242037,0.00014208
+Workday end-Post-shower,gene:plasmid:14693,Plasmid,Hypothetical plasmid protein,55.46790424,-3.429116781,0.000941074
+Workday end-Post-shower,gene:plasmid:28760,Plasmid ARG,Plasmid ARG,56.85337292,15.39367473,1.89E-19
+Workday end-Post-shower,gene:plasmid:19626,TE,NA,59.17505085,-9.541559307,2.60E-10
+Workday end-Post-shower,gene:plasmid:85212,Plasmid ARG,Plasmid ARG,60.59241457,-3.71592295,4.74E-05
+Workday end-Post-shower,gene:vir:100687,Virus,NA,65.27857593,27.61327912,2.77E-39
+Workday end-Post-shower,gene:plasmid:154547,IS,NA,65.57548938,-6.920075232,0.006981816
+Workday end-Post-shower,gene:plasmid:28575,Plasmid ARG,Plasmid ARG,68.26179042,30,4.34E-46
+Workday end-Post-shower,gene:plasmid:16049,IS,NA,68.33366829,3.507431975,0.001798766
+Workday end-Post-shower,gene:vir:107114,Virus,NA,78.28953721,7.587873879,0.003718648
+Workday end-Post-shower,gene:plasmid:126352,Plasmid,Plasmid non_conjugative efflux_transport,82.31536444,29.24620299,2.82E-44
+Workday end-Post-shower,gene:plasmid:14697,IS,NA,93.97173179,-3.664077966,0.000221468
+Workday end-Post-shower,gene:vir:105333,Virus,NA,98.77481741,9.563889858,0.000124423
+Workday end-Post-shower,rep20_8_repA(SAP063A)_GQ900418.1,Plasmid replicon,Plasmid replicon,100.4102921,8.870016961,0.000528698
+Workday end-Post-shower,gene:plasmid:158140,Plasmid,Plasmid non_conjugative efflux_transport,111.0609944,-4.441719652,0.000147094
+Workday end-Post-shower,gene:vir:107096,Virus,NA,115.9689147,10.77701476,6.94E-06
+Workday end-Post-shower,gene:plasmid:87375,Plasmid ARG,Plasmid ARG,119.0628525,22.41148056,7.72E-26
+Workday end-Post-shower,gene:plasmid:109457,TE,NA,119.4812604,-4.09034033,0.001965468
+Workday end-Post-shower,gene:vir:80647,Virus,NA,123.3301773,-3.327722146,0.003016408
+Workday end-Post-shower,gene:plasmid:123307,Plasmid,Plasmid non_conjugative efflux_transport,126.5464365,2.991174479,0.007666566
+Workday end-Post-shower,gene:plasmid:154739,Plasmid,Plasmid biosynthesis_regulatory_enzymes,161.8424275,-3.097216927,0.004311094
+Workday end-Post-shower,gene:proph:173134,Prophage,NA,165.4323365,-2.964319939,0.008367741
+Workday end-Post-shower,gene:proph:163532,Prophage,NA,166.2976123,3.164603888,0.003743099
+Workday end-Post-shower,gene:proph:173121,Prophage,NA,175.7428497,-3.446390136,0.0018335
+Workday end-Post-shower,gene:plasmid:85105,Plasmid,Hypothetical plasmid protein,181.5751666,3.366947477,0.002011499
+Workday end-Post-shower,gene:plasmid:155321,Plasmid ARG,Plasmid ARG,182.1740138,3.219437397,0.006367042
+Workday end-Post-shower,gene:plasmid:28877,Plasmid,Hypothetical plasmid protein,209.436386,3.490291495,0.008167857
+Workday end-Post-shower,gene:proph:173133,Prophage,NA,223.9218531,-3.178162381,0.005406246
+Workday end-Post-shower,gene:proph:163488,Prophage,NA,224.1352281,3.171363697,0.006982343
+Workday end-Post-shower,gene:proph:160866,Prophage,NA,224.746531,3.127650306,0.003474952
+Workday end-Post-shower,gene:plasmid:28947,Plasmid ARG,Plasmid ARG,226.0991755,3.539491841,0.003016408
+Workday end-Post-shower,gene:proph:160871,Prophage,NA,232.9859727,2.558445004,0.007937919
+Workday end-Post-shower,gene:proph:160870,Prophage,NA,233.5788065,2.746341914,0.009602008
+Workday end-Post-shower,gene:vir:105353,Virus,NA,242.0173217,3.267117617,0.005388048
+Workday end-Post-shower,gene:vir:107128,Virus,NA,274.9704756,3.020025789,0.007864413
+Workday end-Post-shower,gene:proph:160867,Prophage,NA,279.2283892,3.020578731,0.004024164
+Workday end-Post-shower,gene:plasmid:147570,IS,NA,281.4226562,2.568315394,0.005708031
+Workday end-Post-shower,gene:vir:105290,Virus,NA,299.3013932,3.203037459,0.00758504
+Workday end-Post-shower,gene:plasmid:28712,IS,NA,310.20618,2.642342906,0.007492667
+Workday end-Post-shower,gene:plasmid:28813,IS,NA,313.0039348,3.046970357,0.001072803
+Workday end-Post-shower,gene:plasmid:85089,Plasmid,Hypothetical plasmid protein,317.9747512,3.085023919,0.002011499
+Workday end-Post-shower,gene:proph:173126,Prophage,NA,323.1169193,-5.462901803,1.76E-08
+Workday end-Post-shower,gene:vir:80666,Virus,NA,343.062177,-3.437919312,0.001965468
+Workday end-Post-shower,gene:plasmid:124949,IS,NA,360.381901,2.978429493,0.00567177
+Workday end-Post-shower,gene:vir:105292,Virus,NA,376.188543,3.802280959,0.002663743
+Workday end-Post-shower,gene:proph:173132,Prophage,NA,378.1782481,-2.9380686,0.007492667
+Workday end-Post-shower,gene:plasmid:155331,Plasmid,Hypothetical plasmid protein,392.7221082,3.275953504,0.002391212
+Workday end-Post-shower,gene:plasmid:124930,Plasmid ARG,Plasmid ARG,405.7933606,3.025095849,0.004024164
+Workday end-Post-shower,gene:proph:173129,Prophage,NA,417.9478109,-2.881262878,0.009139264
+Workday end-Post-shower,gene:plasmid:124939,IS,NA,420.4502529,3.039247666,0.005406246
+Workday end-Post-shower,gene:plasmid:147584,IS,NA,428.3072068,2.65422327,0.003983803
+Workday end-Post-shower,gene:vir:80694,Virus,NA,498.172309,-2.994867059,0.0091222
+Workday end-Post-shower,gene:vir:105342,Virus,NA,501.1535538,3.632276173,0.006778007
+Workday end-Post-shower,gene:vir:105335,Virus,NA,508.3118687,2.945496137,0.002029463
+Workday end-Post-shower,gene:plasmid:28687,IS,NA,522.3762021,2.765288653,0.00234959
+Workday end-Post-shower,gene:vir:105318,Virus,NA,536.0264443,3.086324299,0.001859826
+Workday end-Post-shower,gene:plasmid:152269,Plasmid ARG,Plasmid ARG,538.8768206,3.050252252,0.007666566
+Workday end-Post-shower,gene:vir:105346,Virus,NA,540.474118,3.006208688,0.006753714
+Workday end-Post-shower,gene:plasmid:126387,Plasmid,Unclassified plasmid gene,578.4934246,3.181405536,0.000406281
+Workday end-Post-shower,gene:proph:167224,Prophage,NA,582.4056097,2.943440061,0.002011499
+Workday end-Post-shower,gene:plasmid:28719,Plasmid,Hypothetical plasmid protein,590.1235863,3.232130935,0.000736661
+Workday end-Post-shower,gene:proph:167226,Prophage,NA,606.3663886,3.476542199,0.000406281
+Workday end-Post-shower,gene:plasmid:126379,Plasmid,Plasmid biosynthesis_regulatory_enzymes,616.1657031,3.229092098,0.000547772
+Workday end-Post-shower,gene:plasmid:28721,Plasmid,Plasmid biosynthesis_regulatory_enzymes,619.9633205,3.215600711,0.000528698
+Workday end-Post-shower,gene:plasmid:119833,Plasmid,Unclassified plasmid gene,634.7031948,3.362009615,0.003474952
+Workday end-Post-shower,gene:proph:160868,Prophage,NA,637.1734636,2.866696357,0.003216111
+Workday end-Post-shower,gene:plasmid:124926,Plasmid ARG,Plasmid ARG,642.0624533,3.384054367,0.001072803
+Workday end-Post-shower,gene:proph:173119,Prophage,NA,646.6313072,-3.860595296,0.000592066
+Workday end-Post-shower,gene:proph:160869,Prophage,NA,654.0604269,3.111947847,0.001613949
+Workday end-Post-shower,gene:vir:107118,Virus,NA,731.8690062,3.145568353,0.006409106
+Workday end-Post-shower,gene:proph:173122,Prophage,NA,751.776313,-3.012769442,0.009139264
+Workday end-Post-shower,gene:plasmid:28906,Plasmid,Unclassified plasmid gene,783.577483,2.804499009,0.006581526
+Workday end-Post-shower,gene:plasmid:28900,UNCLASSIFIED,NA,898.7966006,3.308460003,0.001542702
+Workday end-Post-shower,gene:vir:105325,Virus,NA,912.861491,3.336540524,0.002011499
+Workday end-Post-shower,gene:plasmid:28899,Plasmid,Unclassified plasmid gene,919.3373229,3.354073442,0.001927487
+Workday end-Post-shower,gene:plasmid:14964,TE,NA,969.441437,3.644231862,0.002453587
+Workday end-Post-shower,gene:plasmid:30055,TE,NA,993.8647415,3.474253169,0.006409106
+Workday end-Post-shower,gene:plasmid:87370,Plasmid,Plasmid biosynthesis_regulatory_enzymes,1040.808602,2.994038578,0.008624336
+Workday end-Post-shower,gene:plasmid:90990,Plasmid,Plasmid biosynthesis_regulatory_enzymes,1050.238252,2.999543664,0.008434995
+Workday end-Post-shower,gene:vir:107136,Virus,NA,1065.181091,3.785248684,0.000254
+Workday end-Post-shower,gene:vir:105313,Virus,NA,1066.893945,3.37647249,0.005011267
+Workday end-Post-shower,gene:proph:163516,Prophage,NA,1114.593822,3.564187612,0.002484839
+Workday end-Post-shower,gene:proph:173118,Prophage,NA,1145.460809,-4.077494367,0.00014208
+Workday end-Post-shower,gene:vir:105345,Virus,NA,1166.82435,3.508752532,0.002964965
+Workday end-Post-shower,gene:plasmid:28910,Plasmid,Plasmid transposition_recombination_integration,1167.67491,2.674211087,0.002663743
+Workday end-Post-shower,ICEberg|387|CTnPg1-b|GenBank|AP009380|1429021..1439368,ICE,NA,1491.366485,4.277304301,0.000663882
+Workday end-Post-shower,gene:vir:105309,Virus,NA,1544.233067,3.448102867,0.005057279
+Workday end-Post-shower,gene:plasmid:124929,Plasmid ARG,Plasmid ARG,1652.184898,3.664039809,0.000187892
+Workday end-Post-shower,gene:proph:160872,Prophage,NA,1663.801568,3.601577436,3.10E-06
+Workday end-Post-shower,gene:plasmid:152243,IS,NA,1688.651236,3.269098579,0.00074901
+Workday end-Post-shower,gene:vir:105324,Virus,NA,1756.715246,3.303158751,0.004878861
+Workday end-Post-shower,gene:plasmid:90995,Plasmid,Plasmid biosynthesis_regulatory_enzymes,1881.843304,3.227417675,0.001542702
+Workday end-Post-shower,gene:plasmid:28576,Plasmid,Plasmid transposition_recombination_integration,1916.841285,2.740829956,0.003413042
+Workday end-Post-shower,gene:plasmid:85101,Plasmid ARG,Plasmid ARG,2064.43615,3.827503375,5.15E-05
+Workday end-Post-shower,gene:plasmid:87373,Plasmid,Plasmid biosynthesis_regulatory_enzymes,2310.947497,2.79725873,0.003584135
+Workday end-Post-shower,gene:plasmid:110806,Plasmid,Unclassified plasmid gene,3384.050942,3.330200978,0.009139264
+Workday end-Post-shower,gene:plasmid:19954,Plasmid,Plasmid transcription_translation_regulation ,4655.52634,2.899161483,0.001965468
+Workday end-Post-shower,gene:plasmid:28866,Plasmid ARG,Plasmid ARG,5951.277942,4.297135449,7.77E-05
+Workday end-Post-shower,ICEberg|326|Tn6087|GenBank|HQ663849|1..21169,ICE,NA,15647.2885,-3.764125559,9.79E-05
+Workday start-Post-shower,gene:plasmid:85573,IS,NA,3.077144475,-9.257368556,0.000726384
+Workday start-Post-shower,gene:plasmid:117812,TE,NA,3.421282787,29.70727213,7.66E-39
+Workday start-Post-shower,gene:vir:105356,Virus,NA,3.476640133,-15.85769611,4.00E-11
+Workday start-Post-shower,gene:plasmid:153746,Virus,NA,4.644901686,-13.1486984,1.16E-07
+Workday start-Post-shower,gene:plasmid:17358,IS,NA,5.000688155,-10.3035171,8.97E-05
+Workday start-Post-shower,gene:plasmid:20814,IS,NA,5.543040351,17.71568284,8.13E-14
+Workday start-Post-shower,gene:plasmid:141250,Plasmid,Unclassified plasmid gene,5.607635883,-9.019932315,0.000726384
+Workday start-Post-shower,gene:plasmid:83913,TE,NA,6.060098295,-10.74346717,3.64E-05
+Workday start-Post-shower,gene:plasmid:150004,Plasmid,Hypothetical plasmid protein,6.168116344,-10.62155575,3.05E-05
+Workday start-Post-shower,gene:plasmid:129190,TE,NA,6.169789671,11.20047364,1.32E-05
+Workday start-Post-shower,IncQ1_1__M28829.1,Plasmid replicon,Plasmid replicon,7.319304196,-7.70092972,0.005602041
+Workday start-Post-shower,gene:plasmid:92044,Plasmid,Unclassified plasmid gene,7.429498585,16.61097635,4.10E-12
+Workday start-Post-shower,gene:vir:107119,Virus,NA,7.711444255,10.5899527,4.86E-05
+Workday start-Post-shower,gene:plasmid:154419,Plasmid,Hypothetical plasmid protein,7.735555767,8.439390416,0.002592589
+Workday start-Post-shower,gene:plasmid:28816,Plasmid,Plasmid transposition_recombination_integration,7.938181258,8.558793399,0.001890335
+Workday start-Post-shower,gene:plasmid:28676,Plasmid,Plasmid transposition_recombination_integration,7.948432464,12.48105529,6.00E-07
+Workday start-Post-shower,gene:plasmid:93389,Plasmid,Plasmid replication initiation and maintenance ,8.54914001,-16.16577742,3.51E-12
+Workday start-Post-shower,gene:plasmid:15668,Prophage,NA,8.64650156,-22.45438804,2.05E-23
+Workday start-Post-shower,gene:plasmid:14962,Plasmid,Plasmid ARG,9.108192729,6.88797063,0.004648066
+Workday start-Post-shower,gene:plasmid:140955,Plasmid,Plasmid replication initiation and maintenance ,9.12754385,-9.253383304,0.000749606
+Workday start-Post-shower,gene:plasmid:85555,IS,NA,10.09814603,-17.2099945,4.66E-13
+Workday start-Post-shower,gene:plasmid:155312,Plasmid,Plasmid transposition_recombination_integration,10.76762189,-12.98914861,8.55E-08
+Workday start-Post-shower,gene:plasmid:14874,TE,NA,11.02079588,-11.39357399,5.29E-06
+Workday start-Post-shower,gene:plasmid:28767,Plasmid,Unclassified plasmid gene,11.7012455,12.91257054,1.44E-07
+Workday start-Post-shower,gene:plasmid:85110,Plasmid,Hypothetical plasmid protein,11.72342578,-2.169557602,0.006876187
+Workday start-Post-shower,gene:plasmid:28617,Plasmid,Hypothetical plasmid protein,11.96408966,7.918725767,0.005087481
+Workday start-Post-shower,gene:plasmid:18192,Plasmid,Unclassified plasmid gene,12.04554671,16.13272248,1.31E-11
+Workday start-Post-shower,gene:plasmid:115792,Plasmid,Plasmid transposition_recombination_integration,12.07973939,-8.460631023,0.001971597
+Workday start-Post-shower,gene:plasmid:14813,TE,NA,12.40806371,-14.30672632,4.86E-09
+Workday start-Post-shower,gene:plasmid:14676,Plasmid,Hypothetical plasmid protein,12.61197827,-2.368681148,0.007063265
+Workday start-Post-shower,gene:plasmid:152684,TE,NA,12.61385539,13.63712475,3.82E-08
+Workday start-Post-shower,gene:plasmid:24219,TE,NA,13.20916836,-5.457594306,0.009836278
+Workday start-Post-shower,gene:plasmid:25471,IS,NA,13.59255552,21.75162448,7.63E-21
+Workday start-Post-shower,Col440II_1__CP023921.1,Plasmid replicon,Plasmid replicon,13.97151083,13.397518,8.68E-12
+Workday start-Post-shower,gene:plasmid:28776,Plasmid ARG,Plasmid ARG,14.8425596,-8.055900286,0.003439116
+Workday start-Post-shower,gene:plasmid:131155,Plasmid,Plasmid transcription_translation_regulation ,15.24622027,-9.353360935,1.91E-08
+Workday start-Post-shower,gene:plasmid:121643,TE,NA,15.3552556,-5.501590011,0.002981123
+Workday start-Post-shower,gene:vir:100201,Virus,NA,15.72186828,-8.585712612,0.001639818
+Workday start-Post-shower,gene:plasmid:17316,Plasmid,Plasmid relaxase and mobilization machinery,15.73468319,-8.684149512,0.001444302
+Workday start-Post-shower,gene:plasmid:131710,IS,NA,15.76298878,26.32170601,1.55E-30
+Workday start-Post-shower,gene:plasmid:150020,Plasmid,Plasmid biosynthesis_regulatory_enzymes,15.94352892,-8.830297964,0.001068373
+Workday start-Post-shower,gene:plasmid:153101,Plasmid,Hypothetical plasmid protein,16.32627617,8.335484975,0.001361097
+Workday start-Post-shower,gene:plasmid:97768,Plasmid,Hypothetical plasmid protein,16.55210279,-8.488399024,3.09E-06
+Workday start-Post-shower,gene:plasmid:17055,IS,NA,16.91704344,-12.76863456,1.47E-07
+Workday start-Post-shower,gene:plasmid:85080,Plasmid,Plasmid relaxase and mobilization machinery,16.92384315,22.33655927,7.99E-22
+Workday start-Post-shower,gene:plasmid:92646,IS,NA,18.47176785,9.422612518,3.55E-12
+Workday start-Post-shower,gene:plasmid:28714,IS,NA,18.47423705,-18.15295535,3.79E-15
+Workday start-Post-shower,gene:vir:80648,Virus,NA,19.13477743,22.6205568,8.46E-23
+Workday start-Post-shower,gene:plasmid:154420,Plasmid,Unclassified plasmid gene,19.38026343,30,8.96E-40
+Workday start-Post-shower,gene:proph:163604,Prophage,NA,20.13591903,12.60235256,4.99E-07
+Workday start-Post-shower,gene:plasmid:17132,Plasmid,Plasmid replication initiation and maintenance ,20.69527097,-8.577935659,0.001644129
+Workday start-Post-shower,gene:plasmid:154720,Plasmid,Plasmid biosynthesis_regulatory_enzymes,21.14722859,20.08349835,6.65E-18
+Workday start-Post-shower,gene:vir:96289,Virus,NA,21.48005238,9.760046458,0.000255248
+Workday start-Post-shower,gene:plasmid:21259,Plasmid,Plasmid biosynthesis_regulatory_enzymes,22.15757233,30,8.96E-40
+Workday start-Post-shower,gene:plasmid:119824,Plasmid ARG,Plasmid ARG,22.45935322,8.774243773,2.74E-05
+Workday start-Post-shower,gene:plasmid:17321,IS,NA,23.66034189,-2.870444584,0.006756732
+Workday start-Post-shower,gene:plasmid:85763,Plasmid,Plasmid stress_SOS_tox_antitox_partitioning,24.03128644,22.1383782,1.12E-21
+Workday start-Post-shower,gene:plasmid:135609,Plasmid,Plasmid replication initiation and maintenance ,24.03395615,-2.22277049,0.006998035
+Workday start-Post-shower,gene:plasmid:85795,Plasmid,Hypothetical plasmid protein,24.05892076,10.64416242,4.70E-05
+Workday start-Post-shower,gene:plasmid:156916,IS,NA,24.85962628,-15.63796066,1.23E-12
+Workday start-Post-shower,gene:plasmid:85798,Plasmid,Plasmid biosynthesis_regulatory_enzymes,26.90106677,12.85525138,7.72E-21
+Workday start-Post-shower,gene:plasmid:158589,TE,NA,27.24767344,-7.909493977,0.000510317
+Workday start-Post-shower,gene:plasmid:17366,IS,NA,27.4749861,-2.723490361,0.002592589
+Workday start-Post-shower,gene:plasmid:124952,Plasmid,Hypothetical plasmid protein,27.74554904,12.72608939,3.39E-07
+Workday start-Post-shower,gene:vir:107108,Virus,NA,29.11400938,26.65416158,1.69E-31
+Workday start-Post-shower,gene:plasmid:154665,Plasmid,Plasmid biosynthesis_regulatory_enzymes,29.21948811,11.25857058,1.35E-05
+Workday start-Post-shower,gene:plasmid:19626,TE,NA,29.86255049,-6.04882946,1.66E-05
+Workday start-Post-shower,gene:plasmid:17188,IS,NA,31.81168972,-2.767823399,0.001115146
+Workday start-Post-shower,gene:vir:105294,Virus,NA,32.64275056,-10.39683766,3.94E-15
+Workday start-Post-shower,gene:plasmid:139268,Plasmid ARG,Plasmid ARG,32.80993319,-2.412613852,0.006998035
+Workday start-Post-shower,gene:plasmid:17332,IS,NA,33.23304765,-2.406597738,0.000288884
+Workday start-Post-shower,gene:plasmid:131180,Plasmid,Plasmid transcription_translation_regulation ,33.5179495,-4.36386878,0.000726384
+Workday start-Post-shower,gene:plasmid:156368,Plasmid,Plasmid replication initiation and maintenance ,35.15344586,-6.433394227,6.85E-05
+Workday start-Post-shower,gene:plasmid:117984,Plasmid,Plasmid biosynthesis_regulatory_enzymes,37.57057398,5.795730871,0.002313955
+Workday start-Post-shower,IncHI1A(CIT)_1_pNDM-CIT_JX182975,Plasmid replicon,Plasmid replicon,38.55623745,27.8688767,2.72E-34
+Workday start-Post-shower,gene:plasmid:117978,IS,NA,38.85255249,10.82973234,3.36E-05
+Workday start-Post-shower,gene:plasmid:91709,TE,NA,39.4307991,8.956317826,0.001115146
+Workday start-Post-shower,gene:plasmid:18168,IS,NA,40.35982813,22.69350862,1.11E-22
+Workday start-Post-shower,gene:plasmid:154915,Plasmid,Plasmid biosynthesis_regulatory_enzymes,41.44531303,10.89083635,3.03E-05
+Workday start-Post-shower,gene:plasmid:10528,Plasmid,Plasmid relaxase and mobilization machinery,42.06489942,-3.608540331,5.21E-05
+Workday start-Post-shower,gene:plasmid:18190,Plasmid,Unclassified plasmid gene,42.1199766,15.6785391,1.24E-14
+Workday start-Post-shower,gene:proph:160239,Prophage,NA,42.61938907,30,8.96E-40
+Workday start-Post-shower,gene:plasmid:17422,Plasmid,Hypothetical plasmid protein,45.70513099,6.999343057,0.006343722
+Workday start-Post-shower,gene:plasmid:28575,Plasmid ARG,Plasmid ARG,50.46207374,23.67613806,2.00E-24
+Workday start-Post-shower,gene:plasmid:122403,Plasmid ARG,Plasmid ARG,53.75680877,8.137515432,0.004147039
+Workday start-Post-shower,gene:plasmid:131371,Plasmid,Plasmid transcription_translation_regulation ,55.43333406,-4.239124327,0.000218804
+Workday start-Post-shower,gene:plasmid:131183,Plasmid,Plasmid transcription_translation_regulation ,55.74996508,-3.646033061,3.61E-05
+Workday start-Post-shower,gene:plasmid:20396,Plasmid,Hypothetical plasmid protein,57.0493431,14.58657372,1.56E-09
+Workday start-Post-shower,gene:plasmid:85093,Plasmid,Hypothetical plasmid protein,59.03833461,-2.600184662,0.004006026
+Workday start-Post-shower,gene:plasmid:115784,Plasmid ARG,Plasmid ARG,62.74211911,-2.544595909,0.004799818
+Workday start-Post-shower,gene:proph:174191,Prophage,NA,65.78273527,-2.621977843,0.004487532
+Workday start-Post-shower,gene:vir:107096,Virus,NA,66.08288932,10.9021985,1.43E-12
+Workday start-Post-shower,gene:proph:163488,Prophage,NA,68.45312085,2.941470682,0.005602041
+Workday start-Post-shower,gene:plasmid:118151,Plasmid,Unclassified plasmid gene,84.16653905,-3.005207874,0.002592589
+Workday start-Post-shower,gene:plasmid:87375,Plasmid ARG,Plasmid ARG,87.14727423,9.533918936,2.26E-06
+Workday start-Post-shower,gene:plasmid:14229,IS,NA,90.26558077,-2.621504353,0.009960792
+Workday start-Post-shower,gene:plasmid:20786,IS,NA,147.5333486,3.120527665,0.002111576
+Workday start-Post-shower,gene:plasmid:155321,Plasmid ARG,Plasmid ARG,162.3493231,3.14803993,0.006636529
+Workday start-Post-shower,gene:plasmid:14646,Plasmid,Plasmid secretion or conjugation machinery,164.109212,3.006966776,0.003183829
+Workday start-Post-shower,gene:vir:105290,Virus,NA,201.9367088,2.957264091,0.005046239
+Workday start-Post-shower,gene:vir:105292,Virus,NA,224.5898945,3.346183974,0.007063265
+Workday start-Post-shower,gene:plasmid:115984,IS,NA,256.2681688,3.121900564,0.004387298
+Workday start-Post-shower,gene:plasmid:29620,Plasmid,Plasmid biosynthesis_regulatory_enzymes,302.8555159,3.835286988,0.004988433
+Workday start-Post-shower,gene:vir:107126,Virus,NA,316.4614719,3.777362504,0.00215375
+Workday start-Post-shower,repUS2__repA(pBI143)_BFU30316,Plasmid replicon,Plasmid replicon,318.660168,1.821263542,0.001774924
+Workday start-Post-shower,gene:vir:107128,Virus,NA,321.8080696,2.434954006,0.001471147
+Workday start-Post-shower,gene:vir:105304,Virus,NA,339.0849531,3.029425476,0.002621918
+Workday start-Post-shower,gene:plasmid:87383,Plasmid,Plasmid transposition_recombination_integration,378.0253817,-2.411621687,0.006945603
+Workday start-Post-shower,gene:plasmid:152269,Plasmid ARG,Plasmid ARG,401.8329213,3.465586353,0.003007886
+Workday start-Post-shower,gene:vir:105326,Virus,NA,425.565276,3.015740529,0.005831808
+Workday start-Post-shower,gene:plasmid:119833,Plasmid,Unclassified plasmid gene,432.537517,2.965262578,0.004794385
+Workday start-Post-shower,gene:proph:163529,Prophage,NA,440.2997939,2.915930834,0.009979197
+Workday start-Post-shower,gene:vir:105307,Virus,NA,460.8156822,2.918823988,0.009836278
+Workday start-Post-shower,gene:plasmid:124926,Plasmid ARG,Plasmid ARG,493.4266007,3.345601593,0.000706042
+Workday start-Post-shower,gene:plasmid:139562,Plasmid,Plasmid transcription_translation_regulation ,552.5010713,3.553134886,0.006945603
+Workday start-Post-shower,gene:plasmid:17784,Plasmid,Plasmid stress_SOS_tox_antitox_partitioning,655.2579309,4.406237345,0.001127012
+Workday start-Post-shower,gene:vir:105318,Virus,NA,658.2501285,2.067117598,0.004193243
+Workday start-Post-shower,gene:vir:107136,Virus,NA,783.1372122,2.665340501,0.002933886
+Workday start-Post-shower,gene:proph:176833,Prophage,NA,1085.651713,2.566543841,0.002436668
+Workday start-Post-shower,ICEberg|387|CTnPg1-b|GenBank|AP009380|1429021..1439368,ICE,NA,1322.402193,4.232290628,0.00240542
+Workday start-Post-shower,ICEberg|83|ICESpn23771|GenBank|FR671415|1..25880,ICE,NA,2221.903914,-3.870134337,0.000183893
+Workday start-Post-shower,gene:plasmid:147257,Plasmid,Unclassified plasmid gene,2454.463467,-5.336377588,3.50E-08
+Workday start-Post-shower,ICEberg|328|Tn6084|GenBank|HM243622|34197..56508,ICE,NA,5175.17162,-4.423006204,0.000172505
+Workday start-Post-shower,ICEberg|318|Tn6085b|GenBank|HM243623|12581..33370,ICE,NA,6467.009998,-3.768010967,0.00453117
+Workday start-Post-shower,ICEberg|319|Tn6085a|GenBank|HM243621|6653..27441,ICE,NA,6571.110996,-5.057141427,1.62E-06
+Workday start-Post-shower,ICEberg|333|ICE(Tn4371)6071|GenBank|CP001339|1988584..2031125,ICE,NA,6743.268619,3.737147925,0.004741908
+Workday start-Post-shower,ICEberg|81|ICESpnMalM6|GenBank|FR671413|1..23032,ICE,NA,7370.945474,4.574253544,0.004147039
+Workday start-Post-shower,ICEberg|107|TnB1230|GenBank|AJ222769|1..11849,ICE,NA,12090.60162,-3.817150513,0.004487532
+Workday start-Post-shower,ICEberg|52|ICEPaeLESB58-1|GenBank|FM209186|2796710..2907811,ICE,NA,18843.62493,4.804054274,6.80E-05
+Workday start-Post-shower,ICEberg|329|Tn6079|GenBank|GU951538|462..28872,ICE,NA,55807.76523,4.168522701,0.001755437
+Interface (Swine-Workday end),gene:plasmid:19758,Plasmid ARG,Plasmid ARG,11.14480282,-8.446691371,0.000294918
+Interface (Swine-Workday end),gene:plasmid:154744,Plasmid,Plasmid transcription_translation_regulation ,12.42196494,6.695409097,0.007536849
+Interface (Swine-Workday end),gene:plasmid:154056,Plasmid,Plasmid stress_SOS_tox_antitox_partitioning,13.78746723,7.453683442,0.001516732
+Interface (Swine-Workday end),gene:plasmid:19804,Plasmid,Unclassified plasmid gene,13.82419112,11.50203604,5.31E-08
+Interface (Swine-Workday end),gene:plasmid:16993,Plasmid ARG,Plasmid ARG,15.64160611,3.40731035,0.004280569
+Interface (Swine-Workday end),gene:plasmid:30079,TE,NA,16.7225321,-7.145817915,0.00281665
+Interface (Swine-Workday end),gene:plasmid:92418,TE,NA,17.60533888,-7.055508027,0.000755384
+Interface (Swine-Workday end),gene:plasmid:158874,Plasmid,Unclassified plasmid gene,18.81071723,5.85499225,0.009639526
+Interface (Swine-Workday end),gene:plasmid:85082,Plasmid,Hypothetical plasmid protein,19.2017882,9.45368281,2.02E-05
+Interface (Swine-Workday end),gene:plasmid:28765,Plasmid,Unclassified plasmid gene,20.53088652,4.174234588,0.000962069
+Interface (Swine-Workday end),gene:plasmid:136535,IS,NA,21.74935517,-8.038798128,0.000458815
+Interface (Swine-Workday end),gene:plasmid:112765,Plasmid,Unclassified plasmid gene,23.34771962,3.534956111,0.001422575
+Interface (Swine-Workday end),gene:plasmid:124937,TE,NA,23.49360711,4.445411062,0.001421383
+Interface (Swine-Workday end),gene:vir:108492,Virus,NA,25.11032562,8.785849423,0.000118917
+Interface (Swine-Workday end),gene:plasmid:14736,Plasmid ARG,Plasmid ARG,25.66630641,7.234268393,0.000777592
+Interface (Swine-Workday end),gene:plasmid:92404,IS,NA,26.50011542,7.472225195,0.000655249
+Interface (Swine-Workday end),gene:plasmid:84442,TE,NA,27.87230038,6.241426058,0.000796574
+Interface (Swine-Workday end),gene:plasmid:85100,Plasmid,Hypothetical plasmid protein,28.73500799,3.897952144,0.005891537
+Interface (Swine-Workday end),gene:plasmid:14762,IS,NA,29.80087241,4.703634063,0.005891537
+Interface (Swine-Workday end),gene:plasmid:155273,Plasmid,Plasmid relaxase and mobilization machinery,29.82728654,3.885192825,0.003458739
+Interface (Swine-Workday end),gene:plasmid:117695,IS,NA,30.01948988,-12.22530196,8.10E-11
+Interface (Swine-Workday end),gene:plasmid:10579,Plasmid,Plasmid replication initiation and maintenance ,30.54990907,9.603774675,8.17E-07
+Interface (Swine-Workday end),gene:plasmid:155269,Plasmid,Plasmid replication initiation and maintenance ,31.97922654,3.347864685,0.009393837
+Interface (Swine-Workday end),gene:plasmid:17315,Plasmid,Plasmid relaxase and mobilization machinery,32.12480916,3.094067974,0.00231797
+Interface (Swine-Workday end),gene:plasmid:97767,Plasmid,Hypothetical plasmid protein,32.94738728,6.297133165,0.006965988
+Interface (Swine-Workday end),gene:plasmid:19626,TE,NA,33.73073262,6.51305988,0.000462052
+Interface (Swine-Workday end),gene:plasmid:19617,IS,NA,33.84116129,6.654834345,0.004214687
+Interface (Swine-Workday end),gene:plasmid:153101,Plasmid,Hypothetical plasmid protein,37.87584058,7.98386583,0.000532568
+Interface (Swine-Workday end),gene:plasmid:97768,Plasmid,Hypothetical plasmid protein,38.24370304,4.603459424,0.000648718
+Interface (Swine-Workday end),gene:plasmid:90588,TE,NA,41.69334399,6.172715428,0.000369059
+Interface (Swine-Workday end),gene:plasmid:87030,Plasmid ARG,Plasmid ARG,43.79449115,4.079830285,0.000301596
+Interface (Swine-Workday end),gene:plasmid:82865,Plasmid,Hypothetical plasmid protein,51.71898206,3.667065373,0.008797667
+Interface (Swine-Workday end),gene:plasmid:20180,Plasmid ARG,Plasmid ARG,52.3031331,3.012865394,0.001422575
+Interface (Swine-Workday end),rep1_1_repE(pAMbeta1)_AF007787,Plasmid replicon,Plasmid replicon,53.57355801,-6.708140412,0.000369059
+Interface (Swine-Workday end),gene:plasmid:15671,Plasmid,Plasmid relaxase and mobilization machinery,55.17598438,2.638326143,0.00537709
+Interface (Swine-Workday end),gene:proph:168675,Prophage,NA,55.28101912,7.289786682,7.27E-06
+Interface (Swine-Workday end),gene:plasmid:158556,Plasmid,Plasmid replication initiation and maintenance ,62.88734569,7.133177939,0.000295333
+Interface (Swine-Workday end),repUS23__repA(SAP099B)_GQ900449.1,Plasmid replicon,Plasmid replicon,74.22475405,3.298800173,0.005237664
+Interface (Swine-Workday end),gene:plasmid:82838,Plasmid ARG,Plasmid ARG,79.31064039,6.098779805,8.68E-06
+Interface (Swine-Workday end),gene:plasmid:112753,IS,NA,98.20383823,3.711058608,0.00231797
+Interface (Swine-Workday end),gene:plasmid:91632,Plasmid,Hypothetical plasmid protein,98.69443893,-7.141542009,0.0005302
+Interface (Swine-Workday end),gene:plasmid:91669,Plasmid,Hypothetical plasmid protein,108.6779907,5.689281844,0.00492625
+Interface (Swine-Workday end),gene:plasmid:18174,Plasmid ARG,Plasmid ARG,110.742181,4.443117968,0.005237664
+Interface (Swine-Workday end),gene:plasmid:14671,Plasmid,Unclassified plasmid gene,130.4197568,3.487901083,0.001516732
+Interface (Swine-Workday end),gene:plasmid:85663,Plasmid,Plasmid transcription_translation_regulation ,135.1632262,4.078792028,0.001166935
+Interface (Swine-Workday end),gene:plasmid:28966,Plasmid,Plasmid replication initiation and maintenance ,137.8549979,3.952196541,0.001516732
+Interface (Swine-Workday end),gene:plasmid:14694,Plasmid,Hypothetical plasmid protein,140.651189,4.282374933,0.005354298
+Interface (Swine-Workday end),gene:plasmid:125026,Plasmid ARG,Plasmid ARG,151.6540878,9.350035706,1.53E-14
+Interface (Swine-Workday end),gene:plasmid:82863,Plasmid,Plasmid replication initiation and maintenance ,157.3389608,3.43956279,0.005660137
+Interface (Swine-Workday end),gene:plasmid:83868,Plasmid,Plasmid transposition_recombination_integration,185.057758,2.799600598,0.00231797
+Interface (Swine-Workday end),gene:plasmid:112077,Plasmid,Plasmid biosynthesis_regulatory_enzymes,191.3896843,5.266920523,0.0005302
+Interface (Swine-Workday end),gene:plasmid:158140,Plasmid,Plasmid non_conjugative efflux_transport,272.0519227,5.043462539,0.000118917
+Interface (Swine-Workday end),ICEberg|110|bph-sal|GenBank|AY275274|1..1896,ICE,NA,278.6709207,3.111289821,0.002751809
+Interface (Swine-Workday end),gene:plasmid:140967,IS,NA,405.740387,2.98793423,0.000284542
+Interface (Swine-Workday end),gene:plasmid:145710,Plasmid,Plasmid replication initiation and maintenance ,423.2676772,2.817074143,0.004814677
+Interface (Swine-Workday end),gene:plasmid:14229,IS,NA,486.956662,3.126991338,0.00046603
+Interface (Swine-Workday end),gene:plasmid:87725,Plasmid,Hypothetical plasmid protein,524.6661556,3.032720573,0.003712716
+Interface (Swine-Workday end),gene:plasmid:91616,IS,NA,526.4267289,2.557489622,0.005837832
+Interface (Swine-Workday end),gene:plasmid:112081,Plasmid,Plasmid biosynthesis_regulatory_enzymes,581.7960348,5.694678727,3.14E-07
+Interface (Swine-Workday end),gene:plasmid:87728,Plasmid,Plasmid relaxase and mobilization machinery,670.6702768,2.707344671,0.000301596
+Interface (Swine-Workday end),gene:plasmid:87730,Plasmid replicon,Plasmid replicon,769.7922233,3.157283065,0.000393954
+Interface (Swine-Workday end),repUS12__rep(pUB110)_AF181950,Plasmid replicon,Plasmid replicon,1045.437964,2.897194911,0.005891537
+Interface (Swine-Workday end),gene:plasmid:87731,Plasmid,Plasmid transposition_recombination_integration,1328.467903,3.032385296,0.0005302
+Interface (Swine-Workday end),gene:plasmid:146568,TE,NA,1574.953035,3.962690813,0.000777592
+Interface (Swine-Workday end),IncY_1__K02380,Plasmid replicon,Plasmid replicon,1879.294766,2.150195309,0.009393837
+Interface (Swine-Workday end),ICEberg|400|CTn4|GenBank|AM180355|1284507..1314481,ICE,NA,3655.211037,3.38835845,0.00080225
+Interface (Swine-Workday end),gene:plasmid:147257,Plasmid,Unclassified plasmid gene,4586.135365,6.935864177,9.86E-10
+Interface (Swine-Workday end),ICEberg|411|ICEAurCol10a-1|GenBank|CP002512|140074..194217,ICE,NA,4810.05962,5.765456247,1.54E-07
+Interface (Swine-Workday end),ICEberg|412|Tn1806|GenBank|CP002121|818751..870207,ICE,NA,9495.721191,4.89825214,5.62E-05
+Interface (Swine-Workday end),ICEberg|428|ICESauJKD6008-2|GenBank|CP002120|426893..454906,ICE,NA,12215.61895,7.708901979,5.28E-12
+Interface (Swine-Workday end),ICEberg|181|10750-RD.2|GenBank|CP000262|1621728..1670248,ICE,NA,13531.30393,5.312359269,4.32E-07
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
