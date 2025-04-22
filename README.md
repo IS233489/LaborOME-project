@@ -156,5 +156,136 @@ Use `install.packages()` or `BiocManager::install()` as appropriate.
 - Some parts of the script are modular; comment/uncomment sections as needed.
 
 
+# Mobilome Analysis of Shotgun Metagenomes
+
+This R script performs mobilome profiling using metagenomic data from human and environmental samples. It focuses on mobile genetic elements (MGEs) including plasmids, transposons, insertion sequences (IS), prophages, integrative conjugative elements (ICE), and viruses.
+
+---
+
+## 📦 Required R Packages
+
+This script uses packages from CRAN, Bioconductor, and GitHub:
+
+- **Core**: `phyloseq`, `ggplot2`, `dplyr`, `ggthemes`, `ggpubr`, `patchwork`, `vegan`, `lme4`, `lmerTest`, `lsmeans`
+- **Microbiome tools**: `metagenomeSeq`, `ALDEx2`, `zCompositions`, `pairwiseAdonis`, `metagMisc`
+- **Visualization**: `ggrepel`, `randomcoloR`, `scales`, `vioplot`, `cowplot`
+
+Install missing dependencies using `install.packages()` or `BiocManager::install()`.
+
+---
+
+## 📁 Input Files
+
+- `AMR_analytic_matrix_updatedID.csv`: Normalized MGE abundance matrix
+- `WORKER_MOBILOME_ANNOTATION_FINAL.csv`: Gene annotation file with MGE types
+- `FINAL_SHOTGUN_MCOHS_WORKER_METADATA.csv`: Sample metadata file
+
+---
+
+## 🧪 Key Analyses
+
+### 1. **Phyloseq Object Construction**
+- Converts matrices to `otu_table`, `tax_table`, and `sample_data`
+- Builds a unified `phyloseq` object for downstream analysis
+- Subsets to remove environmental samples where applicable
+
+### 2. **Mobilome Composition & Relative Abundance**
+- Taxonomic agglomeration by `Type` (e.g., plasmids, ICE, TE)
+- Visualization of relative abundances across collection phases
+- Barplots at type and gene family levels
+
+### 3. **Alpha Diversity**
+- Richness and Shannon diversity metrics
+- Boxplots with jittered sample points
+- Linear mixed-effects models test differences by `CollectionPhase`
+
+### 4. **Beta Diversity & Ordination**
+- Imputation with `zCompositions` for compositional data
+- Euclidean distances via `rclr`-transformed counts
+- PCoA ordination and centroid plots with ellipses
+- ANOSIM and pairwise PERMANOVA tests (`pairwise.adonis`)
+
+### 5. **Mobilome Subtype Analyses**
+Includes independent analyses and plots for:
+- **Plasmid structural genes** (e.g., conjugation, efflux, relaxase)
+- **IS families** (e.g., IS1, IS3, IS200/IS605)
+- **Transposons (TEs)**, **ICE**, **Prophages**, and **Viruses**
+
+Each subtype includes:
+- Relative abundance barplots (by sample and collection phase)
+- Diversity analyses and statistical modeling
+- Ordination plots and statistical group comparisons
+
+---
+
+## 📊 Outputs
+
+- `.pptx` or `.png` plots: Barplots, ordination plots, diversity boxplots
+- `.rds`: Saved `phyloseq` objects
+- `.csv`: Richness statistics, ordination distances, group comparisons
+
+---
+
+## 💡 Notes
+
+- Script contains separate analyses for imputed and non-imputed MGE data
+- Uses color palettes like Tableau or manually defined ones for clarity
+- Collection phases analyzed include:
+  - `WORKDAY_START`, `WORKDAY_END`, `POST_SHOWER`, `SWINE`, `ENVIRONMENT`
+
+# SpiecEasi Network Analysis
+
+This R notebook performs microbial ecological network analysis using the SPIEC-EASI algorithm on multiple environmental and biological sample types.
+
+## 🧬 Purpose
+
+To infer and compare microbial association networks from different sample environments (e.g., worker start/end of shift, post-shower, swine, and environment) using SPIEC-EASI with Meinshausen-Bühlmann neighborhood selection.
+
+## ✨ Features
+
+- Loads `phyloseq` objects from `.rds` files for several sample types
+- Runs `spiec.easi()` with 999 repetitions to infer robust networks
+- Saves inferred networks for downstream comparison and visualization
+
+## 📦 Requirements
+
+Install the following R packages:
+
+```r
+install.packages("ggsci")
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install(c("phyloseq", "microbiome"))
+install.packages(c("ggplot2", "dplyr", "ggrepel", "scales", "SpiecEasi"))
+```
+
+## 📂 Data Input
+
+This script expects `.rds` files for each sample type which can be extracted from phyloseq objects as detailed in the Microbiome script:
+
+- `SE_ps.noncontam.worker.WORKSTART.f.rds`
+- `SE_ps.noncontam.worker.WORKEND.f.rds`
+- `SE_ps.noncontam.worker.POSTSHOWER.f.rds`
+- `SE_ps.noncontam.worker.SWINE.f.rds`
+- `SE_ps.noncontam.worker.ENVIRONMENT.f.rds`
+
+## 💾 Output
+
+Each SPIEC-EASI model is saved as an `.rds` file, such as:
+
+- `SE_WORKSTART.mb999.rds`
+- `SE_WORKEND.mb.rds`
+
+## 🚀 Example Usage
+
+```r
+set.seed(1244)
+SE_WORKSTART.mb <- spiec.easi(SE_ps.noncontam.worker.WORKSTART,
+                              method='mb',
+                              lambda.min.ratio=1e-1,
+                              nlambda=20,
+                              icov.select.params=list(rep.num=999))
+saveRDS(SE_WORKSTART.mb, file = "SE_WORKSTART.mb999.rds")
 
 
