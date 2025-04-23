@@ -76,7 +76,6 @@ Use `BiocManager::install()` and `install.packages()` as needed.
 
 ## 📌 Notes
 
-- Many installation lines are included in the script for reproducibility; you may want to comment them out once packages are installed.
 - Use `set.seed()` when replicating rarefaction or network inference steps.
 - Visualization uses color schemes from `ggthemes` Tableau palettes.
 
