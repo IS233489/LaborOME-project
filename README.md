@@ -287,9 +287,7 @@ SE_WORKSTART.mb <- spiec.easi(SE_ps.noncontam.worker.WORKSTART,
                               icov.select.params=list(rep.num=999))
 saveRDS(SE_WORKSTART.mb, file = "SE_WORKSTART.mb999.rds")
 
-
-
-
+```
 
 # MAG Analysis and Visualization
 
