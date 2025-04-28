@@ -288,6 +288,9 @@ SE_WORKSTART.mb <- spiec.easi(SE_ps.noncontam.worker.WORKSTART,
 saveRDS(SE_WORKSTART.mb, file = "SE_WORKSTART.mb999.rds")
 
 
+
+
+
 # MAG Analysis and Visualization
 
 This repository contains scripts for analyzing and visualizing Metagenome-Assembled Genomes (MAGs) based on quality metrics and metadata annotations.
