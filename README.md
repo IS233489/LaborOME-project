@@ -288,3 +288,76 @@ SE_WORKSTART.mb <- spiec.easi(SE_ps.noncontam.worker.WORKSTART,
 saveRDS(SE_WORKSTART.mb, file = "SE_WORKSTART.mb999.rds")
 
 
+# MAG Analysis and Visualization
+
+This repository contains scripts for analyzing and visualizing Metagenome-Assembled Genomes (MAGs) based on quality metrics and metadata annotations.
+
+## Overview
+
+The `MAG_ANALYSIS_script.ipynb` performs the following:
+
+- Activates a Conda environment and installs required R packages.
+- Loads MAG metadata from a CSV file (`itol_tree_sorted_metadata_R_data.csv`).
+- Converts selected metadata columns to numeric types for analysis.
+- Creates annotated scatterplots of genome completeness versus contamination:
+  - Points colored by `Collection phase`.
+  - Points sized by `GC content`.
+  - Quality thresholds highlighted with shaded regions.
+  - Marginal density plots added for better distribution visualization.
+- Saves the final figure as a high-resolution `.svg` file.
+
+## Requirements
+
+- Conda
+- R environment
+- Installed R packages:
+  - `tidyverse`
+  - `ggplot2`
+  - `ggExtra`
+  - `cowplot`
+  - `svglite`
+  - `ggpubr`
+  - `dplyr`
+
+You can install the R packages via:
+
+```bash
+conda activate r-MAG_ANALYSIS
+conda install -c conda-forge r-tidyverse
+```
+(Other packages are typically included in `tidyverse`, or can be installed separately using `install.packages()`).
+
+## Usage
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
+    ```
+
+2. Activate the Conda environment:
+    ```bash
+    conda activate r-MAG_ANALYSIS
+    ```
+
+3. Open the notebook:
+    ```bash
+    jupyter notebook MAG_ANALYSIS_script.ipynb
+    ```
+
+4. Ensure the input file `itol_tree_sorted_metadata_R_data.csv` is present in the same directory.
+
+5. Run the notebook cells sequentially to perform the analysis.
+
+6. The final plot will be saved as `COMP_CONT.svg` in the working directory.
+
+## Output
+
+- **COMP_CONT.svg**: A high-quality, annotated scatterplot with marginal distributions.
+
+## Notes
+
+- The script uses manual color mapping for collection phases.
+- Quality thresholds (like >90% completeness and <5% contamination) are visually highlighted.
+- Additional exploratory plots (draft genome size, species novelty) are partially included but may require further editing.
+
