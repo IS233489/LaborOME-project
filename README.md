@@ -362,3 +362,77 @@ conda install -c conda-forge r-tidyverse
 - Quality thresholds (like >90% completeness and <5% contamination) are visually highlighted.
 - Additional exploratory plots (draft genome size, species novelty) are partially included but may require further editing.
 
+# ARG Mobilome Quantification and Visualization
+
+This repository contains scripts for analyzing and visualizing antimicrobial resistance gene (ARG) abundance across different collection phases.
+
+## Overview
+
+The `ARG_MOB_QUANT.ipynb` notebook performs the following:
+
+- Loads ARG quantification data (`ARG_QUANT.csv`).
+- Cleans and filters the dataset:
+  - Sets factor levels for `CollectionPhase.x`.
+  - Filters for positive abundance values.
+- Visualizes ARG abundance:
+  - Generates violin and box plots showing abundance distributions across collection phases.
+- Conducts statistical testing:
+  - Fits a linear mixed-effects model to assess differences in ARG abundance.
+  - Performs pairwise comparisons using Tukey's method.
+  - Conducts non-parametric Kruskal-Wallis and Wilcoxon tests for validation.
+
+## Requirements
+
+- Conda environment with R
+- Installed R packages:
+  - `phyloseq`
+  - `dplyr`
+  - `ggplot2`
+  - `lme4`
+  - `lmerTest`
+  - `emmeans`
+  - `ggpubr`
+  - `rstatix`
+
+You can install the R packages using:
+
+```bash
+conda activate your-r-environment
+conda install -c conda-forge r-tidyverse
+# and separately
+Rscript -e 'install.packages(c("phyloseq", "lme4", "lmerTest", "emmeans", "ggpubr", "rstatix"))'
+```
+
+## Usage
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
+    ```
+
+2. Activate your R conda environment:
+    ```bash
+    conda activate your-r-environment
+    ```
+
+3. Open the notebook:
+    ```bash
+    jupyter notebook ARG_MOB_QUANT.ipynb
+    ```
+
+4. Ensure the input file `ARG_QUANT.csv` is placed in the expected directory (edit the file path if necessary).
+
+5. Run all cells to generate plots and statistical summaries.
+
+## Output
+
+- **Violin/Boxplots** of ARG abundance by collection phase.
+- **Statistical summaries** of fixed effects and pairwise phase comparisons.
+
+## Notes
+
+- Violin plots are enhanced with individual jittered points and boxplot overlays.
+- Statistical models account for fixed effects of collection phases.
+- Outputs are currently displayed within the notebook and not auto-saved to files (modify the script if needed).
+
